@@ -35,6 +35,6 @@ Interested in roles that blend data analysis, experimentation, and real-world pr
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK-HERE
+- LinkedIn: https://www.linkedin.com/in/savanna-mullins/
 - GitHub: https://github.com/savmul
 
